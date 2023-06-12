@@ -10,7 +10,7 @@
 ## Table of content
  - [Exception Handling](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Exception%20Handling.md)
  - [The Growth Mindset](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/The-Growth-Mindset.md)
-
+ - [SQl practice](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/SQL-practice.md)
 
 ## Things I want to know more about
    - throw in exception handling .
