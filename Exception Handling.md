@@ -51,7 +51,7 @@ Insufficient training and qualification verification: The programmer responsible
 
 
 
-#Ariane 5
+# Ariane 5
 Software Incompatibility: One of the most well-known mistakes occurred during the maiden flight of Ariane 5 on June 4, 1996. The rocket veered off course and self-destructed just 37 seconds after liftoff. The cause of the failure was traced back to a software error in the inertial reference system (IRS). 
 
 Lack of Error Handling: The software error mentioned above could have been mitigated if proper error handling mechanisms were in place. The system should have detected the incompatible data and triggered a safe mode or recovery procedure. 
