@@ -7,7 +7,7 @@
 - ## Code 301 - Intermediate Software Development
 - ## Code 401 - Advanced Software Development
 
-## table of content
+## Table of content
  - [Exception Handling](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Exception%20Handling.md)
 
 ## Things I want to know more about
