@@ -12,7 +12,7 @@
  - [The Growth Mindset](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/The-Growth-Mindset.md)
  - [SQl practice](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/SQL-practice.md)
  - [Terminal practice](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Practice%20in%20the%20Terminal)
-
+ - [Unit-test](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Unit-test.md)
 
 ## Things I want to know more about
    - throw in exception handling .
