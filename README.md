@@ -13,6 +13,8 @@
  - [SQl practice](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/SQL-practice.md)
  - [Terminal practice](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Practice%20in%20the%20Terminal)
  - [Unit-test](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Unit-test.md)
+ - [Data Structures and Algorithms](Data Structures and Algorithms.md)
+
 
 ## Things I want to know more about
    - throw in exception handling .
