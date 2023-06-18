@@ -14,6 +14,8 @@
  - [Terminal practice](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Practice%20in%20the%20Terminal)
  - [Unit-test](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Unit-test.md)
  - [Data Structures and Algorithms](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Data%20Structures-and-Algorithms.md)
+ - [File and stream I/O](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/File%20Manipulation%20/File%20-Manipulation-System.IO.md)
+
 
 
 ## Things I want to know more about
