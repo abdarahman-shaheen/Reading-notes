@@ -18,6 +18,8 @@
  - [Engineering Read](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Engineering%20Readings.md)
  - [Classes & Memory Management](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Classes-Memory-Management.md)
  - [Linked list](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Linked-List.md)
+ - [OOP-Principles](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/OOP-Principles.md)
+
 ## Things I want to know more about
    - throw in exception handling .
  ![picture  Git hub](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png)
