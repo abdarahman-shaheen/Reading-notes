@@ -20,6 +20,9 @@
  - [Linked list](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Linked-List.md)
  - [OOP-Principles](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/OOP-Principles.md)
  - [Interface]( https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Interface.md).
+ - [Collection and enum](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Collection-Enum.md).
+
+ - 
 
 ## Things I want to know more about
    - throw in exception handling .
