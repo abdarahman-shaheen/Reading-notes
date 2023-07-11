@@ -21,8 +21,7 @@
  - [OOP-Principles](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/OOP-Principles.md)
  - [Interface]( https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Interface.md).
  - [Collection and enum](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Collection-Enum.md).
-
- - 
+ - [Stack and queue](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Stack-queue.md). 
 
 ## Things I want to know more about
    - throw in exception handling .
