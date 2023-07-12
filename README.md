@@ -25,7 +25,6 @@
  - [DataBase](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Databases-and-ERDs.md).
 
 
- - https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Databases-and-ERDs.md
 
 ## Things I want to know more about
    - throw in exception handling .
