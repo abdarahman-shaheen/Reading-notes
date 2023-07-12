@@ -22,7 +22,7 @@
  - [Interface]( https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Interface.md).
  - [Collection and enum](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Collection-Enum.md).
  - [Stack and queue](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Stack-queue.md).
- - [DataBase and ER](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Stack-queue.md).
+ - [DataBase-and-ER](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Databases-and-ERDs.md).
 
 
  - https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Databases-and-ERDs.md
