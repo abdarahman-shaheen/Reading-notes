@@ -32,6 +32,8 @@
  - [Identity ](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Identity.md).
  - [Authentication-JWT](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/Authentication-JWT.md).
  - [View Component](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/File%20Manipulation%20/View-Components.md).
+ - [SendGrid](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/File%20Manipulation%20/SendGrid.md).
+
 
 
 
