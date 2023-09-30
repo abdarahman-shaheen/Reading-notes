@@ -34,6 +34,8 @@
  - [View Component](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/File%20Manipulation%20/View-Components.md).
  - [SendGrid](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/File%20Manipulation%20/SendGrid.md).
  - [Payment-Processing](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/File%20Manipulation%20/Payment-Processing.md).
+ - [JAMstack](https://github.com/abdarahman-shaheen/Reading-notes/blob/main/File%20Manipulation%20/JAMstack.md).
+
 
 
 
